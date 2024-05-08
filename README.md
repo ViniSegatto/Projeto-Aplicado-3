@@ -5,6 +5,7 @@ disponivel na plataforma [Kaggle](https://www.kaggle.com/) sobre cursos disponiv
 
 Para a criação desse modelo começamos com uma (EDA) Exploratory Data Analysis, para que possamos entender melhor os dados que estamos lidando 
 ![image](https://github.com/ViniSegatto/Projeto-Aplicado-3/assets/117327390/b70d1472-9e32-4c21-ad04-40e5e355950b)
+Na imagem acima podemos ver as colunas que fazem parte desse nosso dataset são: "id",	"title",	"is_paid",	"price", "headline",	"num_subscribers",	"avg_rating",	"num_reviews",	"num_comments",	"num_lectures",	"content_length_min",	"published_time",	"last_update_date",	"category",	"subcategory",	"topic",	"language",	"course_url",	"instructor_name",	"instructor_url".
 ![image](https://github.com/ViniSegatto/Projeto-Aplicado-3/assets/117327390/782683db-58a6-4e0f-b1e5-9a5ec71bbf53)
 ![image](https://github.com/ViniSegatto/Projeto-Aplicado-3/assets/117327390/965bf413-86fd-495c-8359-7a4b1912072b)
 
