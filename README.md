@@ -11,45 +11,45 @@ Este dataset consiste em informações sobre diversos cursos que são oferecidos
 
 As colunas desse dataset são:													
 
-id: Numero de identificação do curso.
+°id: Numero de identificação do curso.
 
-title: em portugues "Título" do curso.
+°title: em portugues "Título" do curso.
 
-is_paid: Indica se o curso é pago ou gratuito.
+°is_paid: Indica se o curso é pago ou gratuito.
 
-price: indica o "Preço" (se o curso for pago).
+°price: indica o "Preço" (se o curso for pago).
 
-headline: Título resumido do curso.
+°headline: Título resumido do curso.
 
-num_subscribers: Número de inscritos.
+°num_subscribers: Número de inscritos.
 
-avg_rating: Classificação média.
+°avg_rating: Classificação média.
 
-num_reviews: Número de avaliações.
+°num_reviews: Número de avaliações.
 
-num_comments: Número de comentários.
+°num_comments: Número de comentários.
 
-num_lectures: Número de aulas.
+°num_lectures: Número de aulas.
 
-content_length_min: Duração total do conteúdo (em minutos).
+°content_length_min: Duração total do conteúdo (em minutos).
 
-published_time: Data de publicação.
+°published_time: Data de publicação.
 
-last_update_date: Data da última atualização.
+°last_update_date: Data da última atualização.
 
-category: Categoria do curso.
+°category: Categoria do curso.
 
-subcategory: Subcategoria do curso.
+°subcategory: Subcategoria do curso.
 
-topic: Tópico do curso.
+°topic: Tópico do curso.
 
-language: Idioma do curso.
+°language: Idioma do curso.
 
-course_url: URL do curso.
+°course_url: URL do curso.
 
-instructor_name: Nome do instrutor.
+°instructor_name: Nome do instrutor.
 
-instructor_url: URL do instrutor.
+°instructor_url: URL do instrutor.
 
 
 
