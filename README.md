@@ -12,25 +12,45 @@ Este dataset consiste em informações sobre diversos cursos que são oferecidos
 As colunas desse dataset são:													
 
 id: Numero de identificação do curso.
-title: em portugues "Título" do curso
-is_paid: Indica se o curso é pago ou gratuito
-price: indica o "Preço" (se o curso for pago)
-headline: Título resumido do curso
-num_subscribers: Número de inscritos
-avg_rating: Classificação média
-num_reviews: Número de avaliações
-num_comments: Número de comentários
-num_lectures: Número de aulas
-content_length_min: Duração total do conteúdo (em minutos)
-published_time: Data de publicação
-last_update_date: Data da última atualização
-category: Categoria do curso
-subcategory: Subcategoria do curso
-topic: Tópico do curso
-language: Idioma do curso
-course_url: URL do curso
-instructor_name: Nome do instrutor
-instructor_url: URL do instrutor
+
+title: em portugues "Título" do curso.
+
+is_paid: Indica se o curso é pago ou gratuito.
+
+price: indica o "Preço" (se o curso for pago).
+
+headline: Título resumido do curso.
+
+num_subscribers: Número de inscritos.
+
+avg_rating: Classificação média.
+
+num_reviews: Número de avaliações.
+
+num_comments: Número de comentários.
+
+num_lectures: Número de aulas.
+
+content_length_min: Duração total do conteúdo (em minutos).
+
+published_time: Data de publicação.
+
+last_update_date: Data da última atualização.
+
+category: Categoria do curso.
+
+subcategory: Subcategoria do curso.
+
+topic: Tópico do curso.
+
+language: Idioma do curso.
+
+course_url: URL do curso.
+
+instructor_name: Nome do instrutor.
+
+instructor_url: URL do instrutor.
+
 
 
 sobre as seguintes categorias: Development, IT & Software, Teaching & Academics, Business, Personal Development, Design, Health & Fitness, Marketing, Lifestyle, Finance & Accounting, Office Productivity, Music, Photography & Video. 
